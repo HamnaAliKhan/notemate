@@ -49,3 +49,4 @@ backend/temp_audio/
 
 # Logs
 *.log
+*.pt
